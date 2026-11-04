@@ -1,5 +1,4 @@
----@source Deobfuѕcаteԁ Ԝіtһ LеaκD
----@see https://leakd.fr
+--ALPHA DEOBFUCATOR V2 MADE BY AAYANZZ JOIN DISCORD FOR APK
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
