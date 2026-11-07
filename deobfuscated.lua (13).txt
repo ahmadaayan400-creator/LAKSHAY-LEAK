@@ -4117,4 +4117,4 @@ textButton.MouseButton1Click:Connect(function()
 	frame.Visible = not frame.Visible
 end)
 
--- https://leakd.fr
+--aayanzz papa hu bete 😎
